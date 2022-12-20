@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FuzsUIrBh2PhxvZCD8c+Y/0enBcd0HBNVWv5uysfGnfsnT7kABtRZUiWdoS3ZD9mUN4kvG6j3kV2jymmRenJxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\knoxt\\source\\repos\\RazorBlue\\Task2\\IPFiltering\\IPFiltering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\knoxt\\.nuget\\packages\\ipaddressrange\\5.0.0\\ipaddressrange.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
