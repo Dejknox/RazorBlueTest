@@ -1,0 +1,16 @@
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\AnagramTest.csproj.AssemblyReference.cache
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\AnagramTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\AnagramTest.AssemblyInfoInputs.cache
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\AnagramTest.AssemblyInfo.cs
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\AnagramTest.csproj.CoreCompileInputs.cache
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\bin\Debug\net5.0\AnagramTest.exe
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\bin\Debug\net5.0\AnagramTest.deps.json
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\bin\Debug\net5.0\AnagramTest.runtimeconfig.json
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\bin\Debug\net5.0\AnagramTest.runtimeconfig.dev.json
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\bin\Debug\net5.0\AnagramTest.dll
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\bin\Debug\net5.0\AnagramTest.pdb
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\AnagramTest.dll
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\refint\AnagramTest.dll
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\AnagramTest.pdb
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\AnagramTest.genruntimeconfig.cache
+C:\Users\knoxt\source\repos\RazorBlue\Task1\AnagramTest\obj\Debug\net5.0\ref\AnagramTest.dll
