@@ -1,0 +1,16 @@
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\bin\Debug\net5.0\DataImport.exe
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\bin\Debug\net5.0\DataImport.deps.json
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\bin\Debug\net5.0\DataImport.runtimeconfig.json
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\bin\Debug\net5.0\DataImport.runtimeconfig.dev.json
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\bin\Debug\net5.0\DataImport.dll
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\bin\Debug\net5.0\DataImport.pdb
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\DataImport.csproj.AssemblyReference.cache
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\DataImport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\DataImport.AssemblyInfoInputs.cache
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\DataImport.AssemblyInfo.cs
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\DataImport.csproj.CoreCompileInputs.cache
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\DataImport.dll
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\refint\DataImport.dll
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\DataImport.pdb
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\DataImport.genruntimeconfig.cache
+C:\Users\knoxt\source\repos\RazorBlue\Task3\DataImport\obj\Debug\net5.0\ref\DataImport.dll
